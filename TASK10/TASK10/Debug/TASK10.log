@@ -1,0 +1,7 @@
+﻿  TASK10.cpp
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task10\task10\listitem.h(9): error C2040: 'listItem::dataValue': 'Bunny *' differs in levels of indirection from 'int'
+  ListItem.cpp
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task10\task10\listitem.h(9): error C2040: 'listItem::dataValue': 'Bunny *' differs in levels of indirection from 'int'
+  LinkedList.cpp
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task10\task10\listitem.h(9): error C2040: 'listItem::dataValue': 'Bunny *' differs in levels of indirection from 'int'
+  Generating Code...

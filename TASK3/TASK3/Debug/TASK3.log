@@ -1,0 +1,11 @@
+﻿  TASK3.cpp
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(18): error C2440: 'initializing': cannot convert from 'void' to 'registeredUser'
+  c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(18): note: Expressions of type void cannot be converted to other types
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(19): error C2664: 'void registeredUser::adduserData(std::string,std::string,int)': cannot convert argument 3 from 'const char [5]' to 'int'
+  c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(19): note: There is no context in which this conversion is possible
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(22): error C2664: 'void registeredUser::addmovie(std::string,int,std::string,std::string)': cannot convert argument 2 from 'const char [5]' to 'int'
+  c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(22): note: There is no context in which this conversion is possible
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(22): error C2512: 'movie': no appropriate default constructor available
+  c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\movie.h(10): note: see declaration of 'movie'
+c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\task3.cpp(25): error C2039: 'addComment': is not a member of 'movie'
+  c:\users\egonmwan brandon\documents\visual studio 2015\projects\task3\task3\movie.h(10): note: see declaration of 'movie'
